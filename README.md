@@ -58,6 +58,27 @@
 
 ###
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelszyszko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelszyszko&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top languages" />
+</div>
+
+###
+
+<h2 align="left">🐍 Contribution Snake</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafaelszyszko/rafaelszyszko/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+###
+
 <h2 align="left">Get in touch</h2>
 
 ###
@@ -66,7 +87,7 @@
   <a href="https://www.linkedin.com/in/rszyszko/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="rafabszyszko2004@gmail.com" target="_blank">
+  <a href="mailto:rafabszyszko2004@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
