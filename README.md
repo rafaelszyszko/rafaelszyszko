@@ -58,18 +58,18 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelszyszko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelszyszko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelszyszko&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top languages" />
 </div>
 
 ###
 
-<h2 align="left">🐍 Contribution Snake</h2>
+<h2 align="left">Contribution</h2>
 
 ###
 
